@@ -1,2 +1,1 @@
-
-![natelubeck_github](https://github.com/etnlbck/natelubeck/assets/386143/61521da6-dc2e-4873-ad1b-77641419b581)
+![etnlbck_github](https://github.com/etnlbck/etnlbck/assets/386143/34a30f49-c0bd-47a7-b6f2-172ef9839fbd)
