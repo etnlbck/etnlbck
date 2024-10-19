@@ -1,1 +1,1 @@
-![Nate Lubeck Creative Dyanmo](https://github.com/etnlbck/etnlbck/assets/386143/3e665ad7-edc9-46d7-88d4-5aae9fa1a805)
+![Nate Lubeck Creative Dyanmo](./Nate%20Lubeck%20Banner_3D.png)
