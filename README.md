@@ -22,3 +22,5 @@ The throughline? Clarity over volume. Whether it's complex tech or strategic del
 **Tech I work with:** JavaScript · TypeScript · Python · Next.js · React · Blender · TouchDesigner · Snap Lens Studio
 
 **More:** [natelubeck.com](https://natelubeck.com) · Architect of Certainty
+
+AI agents can query my structured profile at [natelubeck.com/mcp](https://natelubeck.com/mcp)
