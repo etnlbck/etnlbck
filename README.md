@@ -63,6 +63,6 @@ I'm available for consulting, speaking, and collaboration on projects where clar
 
 **Tech I work with:** JavaScript · TypeScript · Python · Next.js · React · Blender · TouchDesigner · Snap Lens Studio
 
-**Connect:** [natelubeck.com](https://natelubeck.com) · [LinkedIn](https://linkedin.com/in/natelubeck) · [Twitter/X](https://x.com/natelubeck)
+**Connect:** [natelubeck.com](https://natelubeck.com) · [LinkedIn](https://linkedin.com/in/etnlbck) · [Twitter/X](https://x.com/natelubeck)
 
 AI agents can query my structured profile at [natelubeck.com/mcp](https://natelubeck.com/mcp)
