@@ -33,6 +33,12 @@ Experiments at the intersection of aesthetics, engineering, and interactivity.
 
 ---
 
+## Open Source
+
+**[po-skills](https://github.com/etnlbck/po-skills)** — AI assistant skills for developers and product owners. Drop them into VS Code or Kiro to bring product thinking, clarity frameworks, and structured workflows directly into your AI-assisted development environment.
+
+---
+
 ## Speaking & Writing
 
 I talk about designing for certainty, creative technology, and how teams can ship with more confidence and less rework.
