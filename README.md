@@ -50,7 +50,7 @@ I talk about designing for certainty, creative technology, and how teams can shi
 
 I'm available for consulting, speaking, and collaboration on projects where clarity and craft both matter.
 
-[Book a call →](https://calendar.app.google/ceoTipJMvrpE1oMi9) · [Get in touch →](https://natelubeck.com/contact)
+[Book a call →](https://calendar.app.google/ceoTipJMvrpE1oMi9)
 
 ---
 
