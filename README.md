@@ -17,7 +17,7 @@ I develop frameworks that turn user confusion into product confidence. These are
 
 **The 3-Line Clarity Block** — A constraint-based writing framework for product copy that earns trust in three lines or fewer.
 
-[Read more on the blog →](https://natelubeck.com/blog)
+[Read more on the blog →](https://natelubeck.com/notes)
 
 ---
 
@@ -29,7 +29,7 @@ Experiments at the intersection of aesthetics, engineering, and interactivity.
 - **XR / AR Prototypes** — Spatial computing experiments built with Snap Lens Studio, Blender, and custom tooling
 - **AI-Driven Tools** — Workflows and scripts that use AI to accelerate creative and strategic processes
 
-[View selected work →](https://natelubeck.com/work)
+[View selected work →](https://natelubeck.com/case-studies)
 
 ---
 
@@ -43,13 +43,6 @@ Experiments at the intersection of aesthetics, engineering, and interactivity.
 
 I talk about designing for certainty, creative technology, and how teams can ship with more confidence and less rework.
 
-**Topics I speak on:**
-- Designing certainty into product experiences
-- The Confusion Audit: finding friction before it ships
-- Generative art as a design thinking tool
-- AI workflows for creative and product teams
-
-[Speaking & appearances →](https://natelubeck.com/speaking)
 
 ---
 
