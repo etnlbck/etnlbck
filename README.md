@@ -1,4 +1,5 @@
-<img width="2561" height="994" alt="GithubBanner" src="https://github.com/user-attachments/assets/1db8e968-3942-4961-b06e-ddcd76dfa0cd" />
+<img width="1584" height="396" alt="linkedin-banner" src="https://github.com/user-attachments/assets/73247e10-b936-4427-b122-f2d281fc7bb9" />
+
 
 # Nate Lubeck — Architect of Certainty
 
