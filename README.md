@@ -1,56 +1,58 @@
-
 <img width="2561" height="994" alt="GithubBanner" src="https://github.com/user-attachments/assets/1db8e968-3942-4961-b06e-ddcd76dfa0cd" />
 
-# Nate Lubeck — Creative Technologist & Architect of Certainty
+# Nate Lubeck — Architect of Certainty
 
-I build things that move people forward — generative art, XR/AR experiences, and AI-driven tools on one side; product strategy frameworks that eliminate hesitation on the other. The throughline is clarity: whether I'm writing code or designing a decision flow, I'm focused on what actually helps people act with confidence.
+I help firms that aren't "tech companies" adopt AI without the guesswork: a clear read on where they stand, a plan their team can actually run, and workflows that hold up in real work.
 
----
-
-## Frameworks & Thought Leadership
-
-I develop frameworks that turn user confusion into product confidence. These aren't theory — they come from years of shipping product and watching where teams lose time and users lose trust.
-
-**The Certainty Ladder (6 Rungs)** — A structured model for designing reassurance into every step of a product experience, from first impression to committed action.
-
-**The Confusion Audit** — A diagnostic method for identifying friction before it becomes rework. Find the moments where users hesitate, then design them out.
-
-**The 3-Line Clarity Block** — A constraint-based writing framework for product copy that earns trust in three lines or fewer.
-
-[Read more on the blog →](https://natelubeck.com/notes)
+I come at this as a product person first. Years of shipping digital products taught me where teams lose time and where users lose trust. Both come from the same place: unclear next steps. AI adoption has the same problem, and the same fix.
 
 ---
 
-## Portfolio & Creative Work
+## Work With Me
 
-Experiments at the intersection of aesthetics, engineering, and interactivity.
+**AI Transformation Readiness Audit** — A focused look at how your firm works today, where AI fits, and what to do first. You leave with a prioritized 90-day plan, not a slide deck of possibilities.
 
-- **Generative Art** — Code-driven visual work exploring pattern, randomness, and emergent form
-- **XR / AR Prototypes** — Spatial computing experiments built with Snap Lens Studio, Blender, and custom tooling
-- **AI-Driven Tools** — Workflows and scripts that use AI to accelerate creative and strategic processes
+**90-Day Implementation Support** — I work alongside your team to build the first workflows in the opening 30 days, then stay close with drop-in check-ins while the team takes over.
 
-[View selected work →](https://natelubeck.com/case-studies)
+**Monthly Check-Ins** — Ongoing guidance as tools and your needs change.
+
+Best fit: architecture and engineering, accounting, and financial planning firms, where "good enough" doesn't cut it and the work is too important to improvise.
+
+[Book a call →](https://calendar.app.google/ceoTipJMvrpE1oMi9) · [See how I work →](https://natelubeck.com)
+
+---
+
+## Writing
+
+I publish weekly on practical AI adoption, product clarity, and building resilient workflows. Recent topics include keeping agent skills portable so an outage doesn't stop the work.
+
+[Read the notes →](https://natelubeck.com/notes)
+
+---
+
+## Frameworks
+
+These come from shipping product and watching where people hesitate.
+
+**The Certainty Ladder (6 Rungs)** — A model for designing reassurance into every step of an experience, from first impression to committed action.
+
+**The Confusion Audit** — A diagnostic for finding friction before it becomes rework. Locate the moments where users hesitate, then design them out.
+
+**The 3-Line Clarity Block** — A writing constraint for product copy that earns trust in three lines or fewer.
 
 ---
 
 ## Open Source
 
-**[po-skills](https://github.com/etnlbck/po-skills)** — AI assistant skills for developers and product owners. Drop them into VS Code or Kiro to bring product thinking, clarity frameworks, and structured workflows directly into your AI-assisted development environment.
+**[po-skills](https://github.com/etnlbck/po-skills)** — AI assistant skills for developers and product owners. Drop them into VS Code or Kiro to bring product thinking, clarity frameworks, and structured workflows into your AI-assisted development environment.
 
 ---
 
-## Speaking & Writing
+## Creative Work
 
-I talk about designing for certainty, creative technology, and how teams can ship with more confidence and less rework.
+Outside client work, I explore generative art and XR/AR prototypes with Snap Lens Studio, Blender, and custom tooling. It keeps my eye sharp for what technology feels like to use, not just what it can do.
 
-
----
-
-## Let's Work Together
-
-I'm available for consulting, speaking, and collaboration on projects where clarity and craft both matter.
-
-[Book a call →](https://calendar.app.google/ceoTipJMvrpE1oMi9)
+[View selected work →](https://natelubeck.com/case-studies)
 
 ---
 
@@ -58,4 +60,4 @@ I'm available for consulting, speaking, and collaboration on projects where clar
 
 **Connect:** [natelubeck.com](https://natelubeck.com) · [LinkedIn](https://linkedin.com/in/etnlbck) · [Twitter/X](https://x.com/etnlbck)
 
-AI agents can query my structured profile at [natelubeck.com/mcp](https://natelubeck.com/mcp)
+AI agents can query my structured profile at [https://natelubeck.com/api/mcp](https://natelubeck.com/api/mcp)
